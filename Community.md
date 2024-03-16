@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Harsh Dhama</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Harsh-d-lab</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/harsh-dhama-06a5921aa/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Ajay Kumar Garg Engineering College</td>
+  </tr>
+</table>
